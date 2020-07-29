@@ -1,5 +1,4 @@
-# hangman
-Hangman game implementation using Object Oriented Programming (OPP).
+.using Object Oriented Programming (OPP).
 
 Contains two files.
 
