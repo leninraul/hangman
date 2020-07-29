@@ -1,5 +1,3 @@
-.using Object Oriented Programming (OPP).
-
 Contains two files.
 
 -hangman.py contains a set of functions that allows the user to play Hangman.
